@@ -53,7 +53,7 @@ import android.util.SizeF;
 import android.view.View;
 import android.widget.RemoteViews;
 
-import com.android.internal.util.lunaris.OmniJawsClient;
+import com.android.internal.util.alch3my.OmniJawsClient;
 
 import org.omnirom.omnijaws.Config;
 import org.omnirom.omnijaws.R;

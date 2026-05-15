@@ -19,7 +19,7 @@ import android.Manifest
 import android.app.Application
 import android.content.pm.PackageManager
 import androidx.lifecycle.AndroidViewModel
-import com.android.internal.util.lunaris.OmniJawsClient
+import com.android.internal.util.alch3my.OmniJawsClient
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
